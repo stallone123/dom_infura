@@ -1,4 +1,5 @@
 //Testing Git
+//Testing Git Diff
 pragma solidity ^0.4.11;
 
 contract Greetings {
